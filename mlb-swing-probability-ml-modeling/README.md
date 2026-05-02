@@ -7,7 +7,7 @@ This folder contains a machine learning project focused on modeling swing probab
 ## Key Files
 
 - `mlb-swing-probability-notebook.ipynb` - main notebook for the modeling workflow.
-- `mlb-swing-probability-ml-modeling-report.html` - exported report or presentation of results.
+- `mlb-swing-probability-ml-modeling-report.html` - exported report.
 - `calibration.py` - supporting calibration-related Python script.
 - `swing-train.parquet` - training dataset.
 - `swing-test.parquet` - test dataset.

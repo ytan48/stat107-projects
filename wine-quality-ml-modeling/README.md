@@ -7,7 +7,7 @@ This folder contains a machine learning project focused on wine quality modeling
 ## Key Files
 
 - `wine-quality-ml-modeling-notebook.ipynb` - primary notebook for the analysis and model workflow.
-- `wine-quality-ml-modeling-report.html` - exported report or notebook output.
+- `wine-quality-ml-modeling-report.html` - exported report.
 - `wine-train.parquet` - training dataset.
 - `wine-test.parquet` - test dataset.
 

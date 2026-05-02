@@ -6,10 +6,10 @@ This folder contains materials for a credit card fraud detection lab project. Th
 
 ## Key Files
 
-- `lab-03.ipynb` - primary notebook for the lab workflow.
+- `credit-card-fraud-detection-notebook.ipynb` - primary notebook for the lab workflow.
 - `fraud-train.parquet` - training dataset.
 - `fraud-test.parquet` - test dataset.
-- `Fraud - CS 307 Lab.pdf` - lab handout or project reference document.
+- `credit-card-fraud-detection-report` - exported report.
 
 ## Notes
 

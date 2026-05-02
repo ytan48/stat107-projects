@@ -7,7 +7,7 @@ This folder contains a baseball pitch type classification project. The work is c
 ## Key Files
 
 - `pitch-type-classification-notebook.ipynb` - main notebook for the classification workflow.
-- `pitch-type-classification.html` - exported report or notebook output.
+- `pitch-type-classification.html` - exported report.
 - `pitches-train.parquet` - training dataset.
 - `pitches-test.parquet` - test dataset.
 
