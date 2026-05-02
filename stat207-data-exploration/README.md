@@ -6,9 +6,8 @@ This folder contains STAT207 coursework centered on exploratory data analysis an
 
 ## Subfolders
 
-- [Mini Project](Mini%20Project) - exploratory analysis work on the video game dataset.
-- [Mini Project 2](Mini%20Project%202) - a follow-up modeling project using the same dataset.
-- [Final Project](Final%20Project) - the larger final project notebook and dataset.
+- [Analysis of U.S. Video Games](analysis-of-us-videos-games/) - exploratory analysis work on the video game dataset.
+- [Modeling Video Game Review Scores](modeling-video-game-review-scores/) - a follow-up modeling project using the same dataset.
 
 ## Notes
 
