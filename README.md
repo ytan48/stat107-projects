@@ -1,23 +1,25 @@
 # ML Project Portfolio
 
-## Overview
+This repository contains a collection of my data science, machine learning, and analytics projects. The projects include coursework labs, applied modeling projects, and end-to-end data analysis workflows using Python, R, and related data science tools.
 
-This repository collects machine learning, data analysis, and coursework projects from several classes and independent modeling exercises. It is organized as a portfolio of self-contained folders, with each project directory including its own `README.md` for quick navigation.
+I am currently studying Statistics with a Data Science focus at the University of Illinois Urbana-Champaign. This portfolio is organized to show my experience with data cleaning, exploratory data analysis, predictive modeling, model evaluation, and communicating results.
 
-## Top-Level Projects
+---
 
-- [Credit-Card-Fraud-Detection](Credit-Card-Fraud-Detection) - credit card fraud detection lab materials, notebook, and parquet datasets.
-- [mlb-swing-probability-ml-modeling](mlb-swing-probability-ml-modeling) - swing probability modeling work with a notebook, report, calibration script, and datasets.
-- [pitch-type-classification](pitch-type-classification) - pitch classification project with notebook, exported report, and train/test data.
-- [wine-quality-ml-modeling](wine-quality-ml-modeling) - wine quality modeling project with notebook, report, and parquet datasets.
-- [STAT107-data-science-discovery](STAT107-data-science-discovery) - coursework folder containing microprojects and larger course projects.
-- [stat207-data-exploration](stat207-data-exploration) - course folder containing exploratory analysis and modeling projects on video game data.
+## Repository Structure
 
-## Folder Structure
-
-- Top-level modeling folders are standalone projects.
-- Course folders group smaller assignments and multi-part projects.
-- Supporting folders such as image asset directories also include short documentation where useful.
+```text
+.
+├── Credit-Card-Fraud-Detection/
+├── mlb-swing-probability-ml-modeling/
+├── pitch-type-classification/
+├── stat107-projects/
+│   └── STAT107-data-science-discovery/
+│       ├── Microproject/
+│       └── Projects/
+├── wine-quality-ml-modeling/
+└── README.md
+```
 
 ## Notes
 
