@@ -11,12 +11,14 @@ I am currently studying Statistics with a Data Science focus at the University o
 ```text
 .
 ├── Credit-Card-Fraud-Detection/
+├── STAT107-data-science-discovery/
+│   ├── Microproject/
+│   └── Projects/
 ├── mlb-swing-probability-ml-modeling/
 ├── pitch-type-classification/
-├── stat107-projects/
-│   └── STAT107-data-science-discovery/
-│       ├── Microproject/
-│       └── Projects/
+├── stat207-data-exploration/
+│   ├── modeling-video-game-review-scores/
+|   └── analysis-of-us-videos-games/
 ├── wine-quality-ml-modeling/
 └── README.md
 ```
